@@ -2,4 +2,3 @@ vless://d7600916-2540-402d-baa1-14538c4ac701@172.66.43.86:8880?type=xhttp&securi
 vless://d7600916-2540-402d-baa1-14538c4ac701@104.17.148.22:8880?type=ws&security=none&fp=chrome&path=%2F&host=cdn.opensignal.com.id.cloudservertech.my.id#MerdekaIDMY%20%28M4XIS%20FREEZE%20WS%29
 vless://d7600916-2540-402d-baa1-14538c4ac701@api-gateway-global.viu.com.id.cloudservertech.my.id:80?type=ws&security=none&fp=chrome&path=%2F&host=api-gateway-global.viu.com#MerdekaIDMY%20%28M4XIS%20TV%29
 vless://d7600916-2540-402d-baa1-14538c4ac701@104.16.160.145:80?type=ws&security=none&fp=chrome&path=%2F&host=id.cloudservertech.my.id#MerdekaIDMY%20%28M4XIS%20CMGO%29
-vless://@:443?type=tcp&security=none&fp=chrome#New%20Node
